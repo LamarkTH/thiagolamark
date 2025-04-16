@@ -1,6 +1,6 @@
 <h1 align="center">Olá, me chamo Thiago Lamark! 👋</h1>
 
-🎓 Sou graduando em Engenharia da Computação na FRPE e aqui você encontrará alguns dos meus projetos, códigos e aprendizados ao longo da minha jornada acadêmica e profissional.
+🎓 Sou graduando em Engenharia da Computação na **UFRPE** e aqui você encontrará alguns dos meus projetos, códigos e aprendizados ao longo da minha jornada acadêmica e profissional.
 
 💻 Tenho grande interesse nas áreas de:
 - Desenvolvimento Back-End
@@ -11,20 +11,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=github_dark" alt="Thiago Lamark GitHub Stats" />
-</p>
-
----
-
 ## 🧰 Tecnologias que já estudei
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white&labelColor=007396" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E" />
 </div>
 
 ---
