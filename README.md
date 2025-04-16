@@ -1,4 +1,4 @@
-<h1 Olá, me chamo Thiago Lamark! 👋</h1>
+<h1</h1> Olá, me chamo Thiago Lamark! 👋</h1>
 
 🎓 Sou graduando em Engenharia da Computação na **UFRPE** e aqui você encontrará alguns dos meus projetos, códigos e aprendizados ao longo da minha jornada acadêmica e profissional.
 
