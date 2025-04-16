@@ -1,13 +1,13 @@
 <h1</h1> Olá, me chamo Thiago Lamark! 👋</h1>
 
-🎓 Sou graduando em Engenharia da Computação na **UFRPE** e aqui você encontrará alguns dos meus projetos, códigos e aprendizados ao longo da minha jornada acadêmica e profissional.
+🎓 Sou graduando em Engenharia da Computação na UFRPE e aqui você encontrará alguns dos meus projetos, códigos e aprendizados ao longo da minha jornada acadêmica e profissional.
 
 💻 Tenho grande interesse nas áreas de:
-- Desenvolvimento Back-End
-- DevOps
-- Análise de Dados
 
-🧠 Estou sempre em busca de evoluir como desenvolvedor, aprendendo novas tecnologias e boas práticas de desenvolvimento de software. Ainda tenho muito a construir por aqui 😄, mas me dedico diariamente para evoluir e compartilhar!
+- Desenvolvimento Back-End- DevOps- Análise de Dados
+
+🧠 Estou sempre em busca de evoluir como desenvolvedor, aprendendo novas tecnologias e boas práticas de desenvolvimento de software, explorando todas as aréas possiveis. Ainda tenho muito a construir por aqui 😄, mas me dedico diariamente para evoluir e compartilhar!
+
 
 ---
 
