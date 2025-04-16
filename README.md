@@ -13,7 +13,6 @@
 
 ## 🧰 Tecnologias que já estudei
 
-## 🧰 Tecnologias que já estudei
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white&labelColor=007396" />
