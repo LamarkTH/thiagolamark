@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Thiago Lamark! 👋</h1>
+<h1 Olá, me chamo Thiago Lamark! 👋</h1>
 
 🎓 Sou graduando em Engenharia da Computação na **UFRPE** e aqui você encontrará alguns dos meus projetos, códigos e aprendizados ao longo da minha jornada acadêmica e profissional.
 
@@ -14,7 +14,7 @@
 
 ## 🧰 Tecnologias que já estudei
 
-<div align="center">
+<div >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="border-radius: 50%; margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="border-radius: 50%; margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="border-radius: 50%; margin: 10px;" />
