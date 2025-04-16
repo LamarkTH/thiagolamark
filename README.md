@@ -13,6 +13,8 @@
 
 ## 🧰 Tecnologias que já estudei
 
+## 🧰 Tecnologias que já estudei
+
 <div align="center">
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white&labelColor=007396" />
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
@@ -20,7 +22,3 @@
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E" />
 </div>
-
----
-
-<p align="center">🌱 Em constante aprendizado e aberto a colaborações!</p>
